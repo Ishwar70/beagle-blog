@@ -1,0 +1,47 @@
+body {
+    font-family: Times New Roman, serif;
+    margin: 20px;
+    color: #000;
+}
+
+/* Top Section */
+.top-section {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.top-section h1 {
+    text-decoration: underline;
+}
+
+.top-section a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Image Section */
+.image-section {
+    margin-top: 25px;
+}
+
+.image-section h2 {
+    text-decoration: underline;
+}
+
+.image-section img {
+    width: 300px;
+    margin-top: 10px;
+}
+
+/* Trivia Section */
+.trivia-section {
+    margin-top: 25px;
+}
+
+.trivia-section h2 {
+    text-decoration: underline;
+}
+
+.trivia-section ol {
+    padding-left: 20px;
+}
